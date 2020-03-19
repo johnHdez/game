@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"principalB","characterIndex":0,"characterName":"principal1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"principal1","traits":[],"initialLevel":1,"maxLevel":10,"name":"jonathan","nickname":"hernandes","note":"","profile":""},
+{"id":2,"battlerName":"principal 2 b","characterIndex":0,"characterName":"principal2","classId":3,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"principal 2","traits":[{"code":31,"dataId":5,"value":1}],"initialLevel":1,"maxLevel":10,"name":"hardal","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":5,"characterName":"Evil","classId":4,"equips":[3,0,2,3,4],"faceIndex":5,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":10,"name":"cour","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"mauricio b","characterIndex":0,"characterName":"mauricio","classId":2,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"mauricio","traits":[],"initialLevel":1,"maxLevel":20,"name":"mauricio","nickname":"centrera","note":"","profile":""},
+{"id":5,"battlerName":"mike h","characterIndex":0,"characterName":"mike","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"mike","traits":[],"initialLevel":1,"maxLevel":10,"name":"mike","nickname":"hernandes","note":"","profile":""},
+{"id":6,"battlerName":"super principal","characterIndex":0,"characterName":"super principal 1","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"super pricipal 1","traits":[],"initialLevel":70,"maxLevel":99,"name":"super jonathan","nickname":"hernandes","note":"","profile":""}
+]
